@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:yigi/login/login.dart';
 
-import '../login/const.dart';
+import 'login/const.dart';
 
 
 void main() {
